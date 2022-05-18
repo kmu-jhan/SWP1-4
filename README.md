@@ -1,2 +1,2 @@
-20220001 Gildong Hong
+Gildong Hong 20220001
 Kookmin Univ. SW
